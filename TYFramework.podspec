@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
                        iOS Framework 
                     DESC
 
-  spec.homepage     = "https://github.com/ytangLive"
+  spec.homepage     = "https://github.com/ytangLive/TYFramework"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
