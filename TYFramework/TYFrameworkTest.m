@@ -7,6 +7,14 @@
 
 #import "TYFrameworkTest.h"
 
+@interface TYFrameworkTest()
+
+@property(nonatomic, strong) NSString *title1;
+
+@end
+
 @implementation TYFrameworkTest
+
+
 
 @end
